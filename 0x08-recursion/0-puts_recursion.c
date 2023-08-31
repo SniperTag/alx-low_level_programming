@@ -3,6 +3,7 @@
 
 /**
  * main - to check code
+ * _puts_recursion - print a string in reverse
  * return: Always return 0.
  * *s - string
  */
